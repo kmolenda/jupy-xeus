@@ -9,3 +9,4 @@ dependencies:
   - jupyterlite-xeus >=4
   - notebook >=7.4
   - jupyterlab-myst
+  - jupyterlab-open-url-parameter
