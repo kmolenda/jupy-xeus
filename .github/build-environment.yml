@@ -12,3 +12,4 @@ dependencies:
   - jupyterlite-terminal
   - pip:
       - jupyterlab-open-url-parameter
+      - jupyterlab-filesystem-access
