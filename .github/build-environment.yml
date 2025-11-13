@@ -8,3 +8,4 @@ dependencies:
   - jupyterlite-core >=0.6
   - jupyterlite-xeus >=4
   - notebook >=7.4
+  - jupyterlab-myst
