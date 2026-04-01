@@ -16,3 +16,4 @@ dependencies:
   - plotly
   - networkx
   - simpy
+  - sympy
