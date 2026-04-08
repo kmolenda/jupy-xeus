@@ -18,3 +18,12 @@ dependencies:
   - networkx
   - simpy
   - sympy
+  - r-base
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-tibble
+  - r-stringr
+  - r-forcats
+  - r-lubridate
