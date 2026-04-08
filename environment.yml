@@ -29,4 +29,3 @@ dependencies:
   - r-lubridate
   - r-broom
   - r-jsonlite
-  - r-rmarkdown
