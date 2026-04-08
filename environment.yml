@@ -27,3 +27,6 @@ dependencies:
   - r-stringr
   - r-forcats
   - r-lubridate
+  - r-broom
+  - r-jsonlite
+  - r-rmarkdown
