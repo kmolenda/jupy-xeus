@@ -3,9 +3,12 @@ channels:
   - https://prefix.dev/emscripten-forge-dev
   - https://prefix.dev/conda-forge
 dependencies:
+  # Kernele
   - xeus-python
   - xeus-r
   - xeus-sqlite
+
+  # Python – podstawowy stack data science
   - ipycanvas
   - ipywidgets
   - ipyleaflet
@@ -18,7 +21,11 @@ dependencies:
   - networkx
   - simpy
   - sympy
+
+  # R – baza + CourseKata
   - r-base
+  - r-coursekata
+  # (opcjonalnie, jawne zapewnienie core tidyverse)
   - r-ggplot2
   - r-dplyr
   - r-tidyr
