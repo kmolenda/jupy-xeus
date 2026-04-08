@@ -28,4 +28,3 @@ dependencies:
   - r-forcats
   - r-lubridate
   - r-broom
-  - r-jsonlite
