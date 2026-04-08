@@ -27,4 +27,3 @@ dependencies:
   - r-stringr
   - r-forcats
   - r-lubridate
-  - r-broom
