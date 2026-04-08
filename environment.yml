@@ -4,6 +4,7 @@ channels:
   - https://prefix.dev/conda-forge
 dependencies:
   - xeus-python
+  - xseus-r
   - xeus-sqlite
   - ipycanvas
   - ipywidgets
