@@ -20,6 +20,7 @@ dependencies:
   - scipy
   - plotly
   - networkx
+  - pydot
   - simpy
   - sympy
 
