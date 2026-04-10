@@ -10,6 +10,7 @@ dependencies:
 
   # Python – podstawowy stack data science
   - pip
+  - requests
   - ipycanvas
   - ipywidgets
   - ipyleaflet
