@@ -9,6 +9,7 @@ dependencies:
   - xeus-sqlite
 
   # Python – podstawowy stack data science
+  - pip
   - ipycanvas
   - ipywidgets
   - ipyleaflet
