@@ -1,6 +1,6 @@
 name: xeus-kernel
 channels:
-  - https://prefix.dev/emscripten-forge-dev
+  - https://prefix.dev/emscripten-forge-dev-4x
   - https://prefix.dev/conda-forge
 dependencies:
   # Kernele
