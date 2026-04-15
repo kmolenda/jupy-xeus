@@ -8,7 +8,7 @@ dependencies:
   - jupyterlite-core >=0.7
   - jupyterlite-xeus >=4.3
   - notebook >=7.5
-  #- jupyterlab-myst
+  - jupyterlab-myst
   - jupyterlite-terminal
   - pip:
       - jupyterlab-open-url-parameter
